@@ -1,10 +1,12 @@
 {
-	"android_ver" : "1.0.0",
-	"android_url" : "http://www.haoyun009.com/haoyun-1.0.2.apk",
-	"ios_ver" : "1.0.0",
+	"android_ver" : "1.0.6",
+	"android_url" : "http://129.204.100.168:35500/hy/haoyun-1.0.6.apk",
+	"ios_ver" : "1.0.2",
 	"ios_url" : "http://www.haoyun009.com/iosdl/",
-	"zipurl" : "http://down.haoyun009.com/game.zip",
-	"zipmd5" : "1DA40E99554EF52F1F54714D53C3AB02",
-	"dirurl":"http://down.haoyun009.com",
-	"fileListMD5":"B6A68DFF96697667A8931B0D93DEADC7"
+	"zipurl" : "http://129.204.100.168:35500/hy/game.zip",
+	"zipmd5" : "B384EE34909B73A2A9811FD5A10C269F",
+	"dirurl":"http://129.204.100.168:35500/hy",
+	"fileListMD5":"394640919BDDC7CCEA84AB24743B8526"
 }
+
+
